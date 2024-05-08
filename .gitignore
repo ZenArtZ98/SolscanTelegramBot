@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+
+/Lib/
+/Scripts/
+/include/
+/.idea/
+Dockerfile
+amvera.yml
+solscan.db
+channel_mapping.pickle
+channels.pickle
+destination_channels.pickle
+myGrab.session
